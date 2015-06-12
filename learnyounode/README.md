@@ -1,2 +1,2 @@
 ### learnyounode
-Included are my solutions for the *learnyounode* NodeJS learning exercises
+Included are my solutions for the *learnyounode* NodeJS learning exercises from NodeSchool
